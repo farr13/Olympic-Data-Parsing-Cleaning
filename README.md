@@ -10,7 +10,7 @@
 
 # Task 2
 
-* ask 2 cleans and standardizes inconsistent date fields across Olympic datasets.
+* Task 2 cleans and standardizes inconsistent date fields across Olympic datasets.
 
 * Key objectives:
 
@@ -35,5 +35,6 @@
 * Aggregate medal results by Olympic edition and country
 
 * Generate a summary medal tally including total athletes and medal counts
+
 
 * This task transforms cleaned data into meaningful insights and prepares it for reporting or further analysis.
