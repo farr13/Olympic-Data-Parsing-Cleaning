@@ -24,7 +24,7 @@
 
 # Task 3 – Data Enrichment & Aggregation
 
-*Task 3 enriches the cleaned data and produces analytical summaries.
+* Task 3 enriches the cleaned data and produces analytical summaries.
 
 * Key objectives:
 
@@ -38,3 +38,4 @@
 
 
 * This task transforms cleaned data into meaningful insights and prepares it for reporting or further analysis.
+
